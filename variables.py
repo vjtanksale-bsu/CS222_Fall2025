@@ -1,7 +1,7 @@
 def main():
     firstName = input("Enter your first name: ")
     major = "Math"
-    gpa = 3.9
+    gpa = float(input("Enter your gpa: "))
     print(firstName)
     print(gpa)
 main()
