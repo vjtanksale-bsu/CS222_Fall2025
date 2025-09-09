@@ -1,0 +1,23 @@
+[
+    {
+        "studentId" : "0000000000",
+        "lastName" : "Smith",
+        "firstName" : "Alice",
+        "major" : "Chemistry",
+        "gpa" : 3.92
+    },
+    {
+        "studentId" : "0000000001",
+        "lastName" : "Jones",
+        "firstName" : "Bob",
+        "major" : "Math",
+        "gpa" : 3.30
+    },
+    {
+        "studentId" : "0000000002",
+        "lastName" : "Pollard",
+        "firstName" : "Carol",
+        "major" : "Math",
+        "gpa" : 3.90
+    }
+]
